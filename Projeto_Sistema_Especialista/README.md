@@ -16,5 +16,6 @@ conta dele pode ter sido invadida.
 
 ## Como rodar
 
-Abra o notebook no Google Colab e execute de cima para baixo. As bibliotecas já vêm
+Abra o notebook no Google Colab `Sistema_especialista_spam.ipynb` e execute de cima para baixo. As bibliotecas já vêm
 instaladas lá.
+
