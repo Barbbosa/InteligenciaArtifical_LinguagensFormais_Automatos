@@ -4,6 +4,8 @@ Trabalho da disciplina de Inteligência Artificial e LFA, com a Profa. Kadidja V
 
 Grupo: Davi Vieira Lima, Fernanda Barbosa Ramos, Samuel Azevedo Da Silva e Arthur Borges.
 
+Google Colab: https://colab.research.google.com/drive/1xH-jnab7s3wwlnoLsnepeWYVOfpTYVJ8?usp=sharing
+
 ## Descrição
 
 O sistema serve para ajudar a pessoa a decidir o que fazer com uma mensagem que acabou de chegar.
