@@ -31,7 +31,7 @@ A previsão vem de uma árvore de decisão (`DecisionTreeClassifier`, `max_depth
 
 ## Como rodar
 
-1. Abra o notebook `Sistema_especialista_spam.ipynb` no Google Colab.
+1. Abra o notebook https://colab.research.google.com/drive/1xH-jnab7s3wwlnoLsnepeWYVOfpTYVJ8?usp=sharing no Google Colab.
 2. Execute as células na ordem, em *Ambiente de execução > Executar tudo*.
 
 Bibliotecas usadas: Python, Pandas, scikit-learn e Matplotlib.
